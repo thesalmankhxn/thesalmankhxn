@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm Salman Khan aka SK77</h3>
+<!-- <h3 align="left">Hi 👋, I'm Salman Khan aka SK77</h3>
 <h3 align="left">Frontend Developer | Entrepreneur</h3>
 
 <p align="left"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/65806887/262568120-c191d849-cdc2-4f3d-87d8-e9d76578c041.png" height="77" width="77" alt="thesalmankhxn" /> </p>
@@ -27,4 +27,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thesalmankhxn&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesalmankhxn&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+--- -->
